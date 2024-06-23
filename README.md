@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gift Mugaragumbo</h1>
 <h3 align="center">A Django Fullstack Developer, Flutter Developer and IoT Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gift-zw&label=Profile%20views&color=0e75b6&style=flat" alt="gift-zw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gift-zw" alt="gift-zw" /></a> </p>
 
 - 🔭 I’m currently working on a Smart Poultry management system using IoT [smart-poultry](https://github.com/Gift-Zw/smart-poultry)
 
