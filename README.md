@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gift-zw&show_icons=true&locale=en&layout=compact" alt="gift-zw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gift-zw&show_icons=true&locale=en" alt="gift-zw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gift-zw&" alt="gift-zw" /></p>
